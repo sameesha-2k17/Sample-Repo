@@ -1,6 +1,6 @@
 package interfaceexample;
 
-public class Child implements InterfaceParent1, InterfaceParent2{
+public class Child implements Parent1, Parent2{
 
 	public static void main(String[] args) {
 		

@@ -1,6 +1,6 @@
 package interfaceexample;
 
-public interface InterfaceParent2 {
+public interface Parent2 {
 	public void print();
 
 }
